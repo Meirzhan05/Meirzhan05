@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/meirzhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meirzhan05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meirzhan-saparov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meirzhan-saparov/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meirzhan-saparov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meirzhan-saparov/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27161706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27161706" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meirzhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meirzhan05" height="30" width="40" /></a>
 </p>

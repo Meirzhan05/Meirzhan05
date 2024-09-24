@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning, Deep Learning, Docker and AWS**
 
-- 👨‍💻 All of my projects are available at [meirzhansaparov.com](meirzhansaparov.com)
+- 👨‍💻 All of my projects are available at [meirzhansaparov.com](http://meirzhansaparov.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

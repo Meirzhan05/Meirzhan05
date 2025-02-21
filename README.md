@@ -38,9 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Meirzhan05/Meirzhan05/output/snake.svg" alt="Snake animation" />
 
 ###
 
